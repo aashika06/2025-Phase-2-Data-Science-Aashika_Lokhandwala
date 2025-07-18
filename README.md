@@ -63,8 +63,9 @@ To complete the technical component of Phase 2 and submit evidence of your compl
 
 - Included all files needed to run your code inside your repository so that it's easy for the MSA team to mark your submission
 
-2. The form will open from **Week 4 (starting June 30, 0:00)** and the **submission deadline is 11:59 pm, Sunday, 20 July**.
+2. The form will open from **Week 4 (starting June 30, 0:00)** and the submission deadline is 11:59 pm, Sunday, 20 July.
  [MSA 2025 Phase 2 Submission](https://forms.office.com/r/cSEtT0jEb6)
+**(one-week extension offered, the new submission deadline is 11:59 pm, Sunday, 27 July)**
 
 The MSA programme strictly enforces academic integrity and students that do not submit their own work will first be notified with our concerns, and if your work is determined to be copied from someone/somewhere else and/or insufficiently different from others if you have collaborated or troubleshoot with other parties (including MSA team members and the content created by them in this repository), you may not be invited to any events and activities as part of the non-technical component of Phase 2.
 
